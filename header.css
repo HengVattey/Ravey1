@@ -1,0 +1,538 @@
+.header-on {
+    background-color: rgb(241, 239, 236);
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-items: flex-end;
+    flex-direction: row;
+   justify-content:end;
+   align-items: center;
+   font-family: arial;
+   font-size: 12px;
+
+}
+
+.header-on .contact{
+    width: 60px;
+    color: rgb(92, 90, 90);
+    cursor: pointer;
+    text-decoration:none;
+    
+     }
+ .header-on .Partner{
+    width: 60px;
+    cursor: pointer;
+    color: rgb(92, 90, 90);
+    cursor: pointer;
+    text-decoration:none;
+}
+.login1{
+    display: flex;
+    justify-content: center;
+}
+.login-icon{
+    width: 12px;
+    height: 13px;
+}
+.header-on .Login{
+    width: 60px;
+    cursor: pointer;
+    color: rgb(92, 90, 90);
+    cursor: pointer;
+    text-decoration:none;
+    margin-left: 5px;
+}
+.languges1{
+    margin-right: 20px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    
+}
+.languges-eN{
+    width: 13px;
+    height: 13px;
+   margin-right: 2px;
+   color: rgb(92, 90, 90);
+    
+}
+.header-on .languges{
+
+    cursor: pointer;
+    color: rgb(92, 90, 90);
+    cursor: pointer;
+    text-decoration:none;
+}
+.contact:hover{
+    text-decoration: underline;
+    
+    
+    
+}
+.Partner:hover{
+    text-decoration: underline;
+    
+    
+    
+}
+
+.Login:hover{
+    text-decoration: underline;
+    
+    
+}
+.languges:hover{
+    text-decoration: underline;
+  
+    
+}
+.div-all {
+    margin-top: 20px;
+    width: 100%;
+    height: 70px;
+    background-color: rgb(252, 251, 251);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: arial;
+    font-size: 14px;   
+}
+.div-all .div-left{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;  
+}
+.div-all .div-left .Cisco-logo .Cisco-logo1{
+    width: 80px;
+    height: 40px;
+    margin-right: 15px; 
+
+} 
+
+.div-all .div-left .product{
+    width: 160px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: black;
+text-decoration: none;
+}
+.div-all .div-left .product:hover{
+    text-decoration: underline;
+}
+.div-all .div-left .Solution{
+    width: 70px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+}
+.div-all .div-left .Solution:hover{
+    text-decoration: underline;
+}
+.div-all .div-left .Support{
+    width: 60px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+
+}
+.div-all .div-left .Support:hover{
+    text-decoration: underline;
+}
+.div-all .div-left .learn{
+    width: 60px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+
+}
+.div-all .div-left .learn:hover{
+    text-decoration: underline;
+}
+.div-all .div-right {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-right: 20px;
+}
+.div-all .div-right .button-trail{
+    color: rgb(0, 110, 255);
+    width: 120px;
+    height: 25px;
+    margin-right: 5px;
+    border-radius: 20px;
+    border-color: rgb(0, 110, 255) ;
+    border-style: solid;
+    margin-top: 10px;
+   
+}
+.div-all .div-right .button-trail:hover{
+    color: rgb(79, 160, 231);
+    cursor: pointer;
+}
+.div-all .div-right .search{
+    width: 60px;
+    margin-top: 13px;
+}
+.search:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.background .background-pic{
+    
+}
+.icons-5{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    height: 75px;
+}
+.icons-hover:hover{
+    text-decoration: underline;
+}
+.icon{
+    display: flex;
+    width: 110px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 16px;
+    font-family: arial;
+
+}
+
+.icons-hover:hover{
+    text-decoration: underline;
+}
+.latest{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    font-family: arial;
+    margin-bottom: 3;
+}
+.background{
+    background-image:url("cisco/homepage-hero-ai-2.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    color: white;
+    margin-bottom: 8px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    font-family: arial;
+    padding-left: 50px;
+}
+
+.background .cap-bg{
+   font-size: 40px;
+}
+.background .background-captoin{
+    margin-top: 20px;
+    
+}
+.background .button-cap{
+    border-radius: 20px;
+    height: 40px;
+    width: 150px;
+    border-style: solid;
+    margin-top: 23px;
+}
+.background .button-cap:hover{
+    cursor: pointer;
+    background-color: rgb(223, 230, 236);
+}
+.homepage{
+    display: flex;
+    justify-content: center;
+
+    width: 100%;
+    height: 600px;
+}
+.homepage .homepage-size{
+   
+    width: 360px;
+    height: 280px;
+    
+}
+.homepage-captoin{
+    margin-left: 25px;
+    font-family: arial;
+}
+.homepage .btn-homepage{
+height: 30px;
+width: 50px;
+margin-top: 20px;
+}
+.homepage .cap1{
+    
+    margin-top: 20px;
+    font-size: 25px;
+}
+.homepage .cap2{
+    margin-top: 20px;
+    font-size:18px;
+}
+
+.homepage .cap3{
+    margin-top: 20px; 
+    font-size: 19px;
+    color: rgb(56, 80, 232);
+}
+.homepage .cap3:hover{
+    cursor: pointer;
+    color: rgb(50, 50, 196);
+    text-decoration: underline;
+}
+.homepage-border{
+    margin-left: 25px;
+    background-color: rgb(246, 250, 250);
+    height: 520px;
+    width: 360px;
+    border-style:hidden;
+    border-radius: 2px;
+}
+.flex-border{
+    margin-left: 50px;
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.flex-border .pic-image{
+    width: 600px;
+    height: 380px;
+}
+.flex-border .cap-pic{
+    font-family: arial;
+    width: 500px;
+    margin-top: 70px;
+    margin-left: 30px;
+}
+.flex-border .cap-pic .cap-pic1{
+    font-size: 35px;
+    width: 450px;
+}
+.flex-border .cap-pic .cap-pic2{
+    font-size: 18px;
+    margin-top: 20px; 
+}
+.flex-border .cap-pic .cap-pic-btn{
+margin-top: 30px;
+height: 45px;
+width: 180px;
+color: rgb(51, 59, 206);
+border-color: rgb(105, 141, 219);
+border-style: solid;
+border-radius: 25px;
+background-color: white;
+}
+.flex-border .cap-pic .cap-pic-btn:hover{
+  color: rgb(36, 36, 138); 
+  cursor: pointer; 
+}
+.inside-cap-btn{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    font-family: arial;
+    width: 100%;
+    height: 120px;
+    align-items: center;
+}
+.inside-cap-btn .cap-inside{
+    font-size: 30px;
+    width: 200px;
+    margin-left: 70px;
+}
+.inside-cap-btn .more-btn{
+    display: flex;
+    justify-content: space-between;
+    color: rgb(36, 52, 235);
+    width: 230px;
+    margin-right: 40px;
+}
+.inside-cap-btn .more-btn1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.border-bios{
+    font-family: arial;
+    width: 100%;
+    height:480px;
+ 
+
+
+
+}
+.border-bios .border-bio1{
+    display: flex;
+    width: 100%;
+    height:200px;
+    justify-content: space-between;
+
+}
+
+
+
+ .border-bio-all3{
+    padding-left: 70px;
+    padding-top: 25px;
+    display: flexbox;
+    width: 300px;
+    height: 200px;
+    align-items: center;
+   
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+.border-bios  .border-bio-all3 .bio1{
+   font-size: 16px;
+   color: black;
+
+}
+.border-bios  .border-bio-all3 .bio2{
+    font-size: 19px;
+    margin-top: 20px;
+    
+ }
+ .border-bios  .border-bio-all3 .read-btn{
+    font-size: 16px;
+    margin-top: 20px;
+    color: rgb(31, 76, 225);
+    
+ }
+ .border-bios  .border-bio-all3 .read-btn:hover{
+    text-decoration: underline;
+    cursor: pointer;
+ }
+ .border-quick{
+    background-color: rgb(250, 240, 240);
+    width: 100%;
+    height: 200px;
+ }
+ .quick-link{
+    color: gray;
+
+    display: flex;
+    height: 80px;
+    width: 100%;
+    justify-content: space-between;
+    border-color: rgb(12, 14, 16);
+    border-bottom: color(rgb(54, 46, 46));
+   
+    
+ }
+ .quick-link .quick-link-left{
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    font-family: arial;
+margin-left: 60px;
+    align-items: center;
+
+ }
+ .quick-link .quick-link-left .quick-link4{
+   margin-left: 15px;
+    width: 140px;
+    font-size: 13px;
+
+ }
+ .quick-link .quick-link-left .quick-link4:hover{
+    cursor: pointer;
+    text-decoration: underline;
+ }
+ .quick-link .quick-link-icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 23%;
+    margin-right: 20px;
+ }
+ .quick-link .quick-link-icons .icon-social{
+    width: 30px;
+    height: 30px;
+ }
+  .quick-link .quick-link-icons .icon-social:hover{
+    cursor: pointer;
+    color: gray;
+ }
+ .quick-link2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: gray;
+    font-family: arial;
+    width: 100%;
+    height: 80px;
+    font-size: 13px;
+
+ }
+ .quick-link2 .padding-newfeed{
+    padding-left: 20px;
+    border-top: 90%;
+    border-top-color: black;
+ }
+ .quick-link2 .padding-newfeed:hover{
+cursor: pointer;
+text-decoration: underline;
+ }
+ .back-end{
+    color: gray;
+    font-family: arial;
+    font-size: 13px;
+    margin-left: 60px;
+ }
+ .hr1{
+    width: 90%;
+ }
+
+
+
+
+
+
+
+
+
+.page-grid {
+   
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 16px;
+    row-gap: 14px;
+    
+}
+
+
+@media(max-width:750px){
+    .page-grid{
+      grid-column: 1fr 1fr;
+    }
+  }
+  @media (min-width: 751px){
+    .page-grid{
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+  }
+  @media(min-width:1000px){
+    .page-grid{
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+  }
+  
+
+
+
+
+
+
+
+

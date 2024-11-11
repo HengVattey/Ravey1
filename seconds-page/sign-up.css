@@ -1,0 +1,134 @@
+.en-us{
+    display: flex;
+    width:400px;
+    height: 40px;
+    justify-content: end;
+
+}
+  .en-us-icon{
+    padding-right: 3px;
+     width: 23px;
+     height: 23px;
+     margin-top: 9px;
+     
+  }
+  .en-us-font{
+     font-family: arial;
+     font-size: 10px;
+     width: 40px;
+     height: 30px;
+     display: flex;
+     margin-top: 10px;
+     
+  } 
+.div-allin{
+    font-family: arial;
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
+.div-allin1{
+    width:400px;
+    height: 1050px;
+    background-color: rgb(250, 246, 246);
+    border-style: groove;
+    border-radius: 3px;
+}
+.Cisco-logopage3{
+    width: 58px;
+    height: 40px;
+    margin-top: 70px;
+    margin-bottom: 30px;
+    margin-left: 171px;
+}
+.caption-ver{
+    margin-top: 60px;
+    color: gray;
+}
+.caption-ver .caption-ver1{
+    display: flex;
+    justify-content: center;
+    font-size: 28px;
+}
+.caption-ver .caption-ver2{
+    font-size: 13px;
+    width:378px;
+    margin-top: 40px;
+    padding-left: 25px;
+    margin-bottom: 20px;
+    
+}
+.inform-forgot2{
+    margin-top: 20px;
+}
+.inform-forgot2 .email-place2{
+    margin-left: 25px; 
+    width: 330px;
+    height: 30px;
+    margin-bottom: 10px;
+    
+}
+.email-btnLogin{
+    width: 340px;
+    height: 40px;
+    background-color: rgb(70, 128, 164);
+    border-radius: 20px;
+    border-style: hidden;
+    margin-top: 30px;
+    margin-left: 20px;
+    color: aliceblue;
+}
+.cre-email{
+    margin-left: 25px;
+}
+.cre-email1{
+    margin-left: 25px;
+    color: black;
+}
+.caption-ver .caption-ver4{
+    color: rgb(66, 153, 207);
+    text-decoration: none;
+    font-size: 14px;
+    margin-left: 25px;
+    
+}
+.caption-ver .caption-ver4:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.contact-spp{
+    text-decoration: none;
+    color: rgb(71, 71, 241);
+}
+.contact-spp:hover{
+    text-decoration: underline;
+}
+.header-unlock{
+    margin-top: 15px;
+  font-family: arial;
+  font-size: 15px;  
+  display: flex;
+  justify-content: center;
+   
+   
+}
+.header-unlock  .header-btm2{
+    margin-right: 8px;
+    color: rgb(40, 143, 218);
+    text-decoration: none;
+ }
+ .header-unlock  .header-btm2:hover{
+    text-decoration: underline;
+    cursor: pointer;
+ }
+ i{
+    color: rgb(128, 126, 126);
+   font-size: 20px;
+  cursor: pointer;
+  margin-right: 3px; 
+  margin-top: 10px;
+  
+  }
+  i:hover{
+    color: aqua;
+  }

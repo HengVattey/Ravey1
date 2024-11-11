@@ -1,0 +1,121 @@
+
+.mid-screen{
+   display: flex;
+   width: 100%;
+   justify-content: center;
+}
+.cisco-usEN{
+    width: 300px;
+    height: 550px;
+    background-color: rgb(250, 252, 252);
+    border-radius: 4px;
+   border-style:groove;
+    font-family: arial;
+
+ } 
+ .en-us-icon{
+   padding-right: 3px;
+    width: 23px;
+    height: 23px;
+    
+ }
+ .en-us-font{
+    font-family: arial;
+    font-size: 10px;
+    width: 40px;
+    height: 30px;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 255px;
+    color: gray;
+    
+ } 
+ .Cisco-logopage2{
+    width: 50px;
+    height: 36px;
+    margin-left: 130px;
+    margin-top:15px;
+ } 
+ .login-name{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+ }
+ .inform-login{
+    margin-top: 20px;
+    height: 50px;
+    margin-left: 15px;
+ }
+ .email-place{
+    width: 270px;
+    height: 20px;
+    margin-bottom: 10px;
+   
+ }
+ .next-btnLogin{
+    width: 265px;
+    height: 35px;
+    background-color: rgb(13, 151, 236);
+    border-radius: 20px;
+    border-style: hidden;
+    margin-top: 40px;
+    margin-left: 20px;
+    color: aliceblue;
+ }
+ .question{
+    font-size: 14px;
+    margin-left: 18px;
+
+ }
+ .question .question1{
+text-decoration: none;
+color: rgb(44, 191, 191);
+ }
+ .question .question1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+ }
+
+ .hr2{
+    width: 80%;
+ }
+ .signUp{
+    margin-left: 18px;
+    font-size: 14px;
+ }
+ .signUp .p1-signup{
+    color: gray;
+ }
+ .signUp .sign-up{
+    color: rgb(42, 192, 192);
+    text-decoration: none;
+ }
+ 
+ .header-btm{
+    margin-top: 20px;
+    display: flex;
+    font-family: arial;
+    justify-content: center;
+    color: gray;
+ } 
+ .header-btm  .header-btm1{
+    color: rgb(77, 169, 219);
+   padding-right: 10px;
+    text-decoration: none;
+ }
+ .header-btm  .header-btm1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+ }
+i{
+  font-size: 20px;
+ cursor: pointer;
+ margin-right: 3px; 
+ 
+ }
+ i:hover{
+   color: aqua;
+ }
+ 
+

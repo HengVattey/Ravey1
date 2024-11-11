@@ -1,0 +1,246 @@
+.header-on {
+    background-color: rgb(241, 239, 236);
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-items: flex-end;
+    flex-direction: row;
+   justify-content:end;
+   align-items: center;
+   font-family: arial;
+   font-size: 12px;
+
+}
+
+.header-on .contact{
+    width: 60px;
+    color: rgb(92, 90, 90);
+    cursor: pointer;
+    text-decoration:none;
+    
+     }
+ .header-on .Partner{
+    width: 60px;
+    cursor: pointer;
+    color: rgb(92, 90, 90);
+    cursor: pointer;
+    text-decoration:none;
+}
+.login1{
+    display: flex;
+    justify-content: center;
+}
+.login-icon{
+    width: 12px;
+    height: 13px;
+}
+.header-on .Login{
+    width: 60px;
+    cursor: pointer;
+    color: rgb(92, 90, 90);
+    cursor: pointer;
+    text-decoration:none;
+    margin-left: 5px;
+}
+.languges1{
+    margin-right: 20px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    
+}
+.languges-eN{
+    width: 13px;
+    height: 13px;
+   margin-right: 2px;
+   color: rgb(92, 90, 90);
+    
+}
+.header-on .languges{
+
+    cursor: pointer;
+    color: rgb(92, 90, 90);
+    cursor: pointer;
+    text-decoration:none;
+}
+.contact:hover{
+    text-decoration: underline;
+    
+    
+    
+}
+.Partner:hover{
+    text-decoration: underline;
+    
+    
+    
+}
+
+.Login:hover{
+    text-decoration: underline;
+    
+    
+}
+.languges:hover{
+    text-decoration: underline;
+  
+    
+}
+.div-all {
+    margin-top: 20px;
+    width: 100%;
+    height: 70px;
+    background-color: rgb(252, 251, 251);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: arial;
+    font-size: 14px;   
+}
+.div-all .div-left{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;  
+}
+.div-all .div-left .Cisco-logo .Cisco-logo1{
+    width: 80px;
+    height: 40px;
+    margin-right: 15px; 
+
+} 
+
+.div-all .div-left .product{
+    width: 160px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+}
+.div-all .div-left .product:hover{
+    text-decoration: underline;
+}
+.div-all .div-left .Solution{
+    width: 70px;
+    margin-top: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+.div-all .div-left .Support{
+    width: 60px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+
+}
+.div-all .div-left .Support:hover{
+    text-decoration: underline;
+}
+.div-all .div-left .learn{
+    width: 60px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+
+}
+.div-all .div-left .learn:hover{
+    text-decoration: underline;
+}
+.div-all .div-right {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-right: 20px;
+}
+.div-all .div-right .button-trail{
+    color: rgb(0, 110, 255);
+    width: 120px;
+    height: 25px;
+    margin-right: 5px;
+    border-radius: 20px;
+    border-color: rgb(0, 110, 255) ;
+    border-style: solid;
+    margin-top: 10px;
+   
+}
+.div-all .div-right .button-trail:hover{
+    color: rgb(79, 160, 231);
+    cursor: pointer;
+}
+.div-all .div-right .search{
+    width: 60px;
+    margin-top: 13px;
+}
+.search:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.img-logo{
+    height: 40px;
+    width: 70px;
+    margin-right:7px ;
+}
+.border-div{
+    display: flex;
+    justify-content: space-between;
+    border-style: solid;
+    border-color: rgb(148, 141, 141);
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+.div-left2{
+    margin-left: 60px;
+    display: block;
+    width: 30%;
+    height: 400px;
+    font-family: arial;
+    font-size:16px;
+    margin-top: 30px;
+   padding-top: 20px;
+    margin-top: 0%;
+    border-style:solid;
+    border-left: 0px;
+    border-right-color: rgb(148, 145, 145);
+    border-top: none;
+    border-bottom: none;
+   
+}
+.div-right2{
+    height: 800px;
+    width: 100%;
+  font-family: arial;
+  padding: 20px;
+ padding-left: 40px;
+  
+ 
+}
+.hr-divright{
+    display: flex;
+    justify-content: flex-start;
+   width: 20%;
+   margin-right: 660px;
+
+
+}
+.case1{
+    color: gray;
+}
+.header0{
+    color: rgb(84, 129, 251);
+    text-decoration: none;
+}
+.header0:hover{
+    text-decoration: underline;
+}
+.header-1{
+    color: black;
+    text-decoration: none;
+}
+.header-1:hover{
+    text-decoration: underline;
+}
